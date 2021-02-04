@@ -27,5 +27,5 @@ Thanks To:
 - Me :)
 
 # Support
-Donate to me via: https://saweria.co/rushcode320
-If you have any question, dm to my Instagram https://instagram.com/galih.stynsptr320 or email me at saputragalih950@gmail.com
+Donate to me via: https://saweria.co/rushcode320<br>
+If you have any question, dm to my Instagram https://instagram.com/galih.stynsptr320 or email me at saputragalih950@gmail.com<br>
