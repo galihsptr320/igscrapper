@@ -2,8 +2,16 @@
 Instagram profile Scrapper<br>
 Just type the username, and boo! :D
 
+# Instalation
+clone this repo to your computer
+```
+git clone https://github.com/galihsptr320/igscrapper
+cd igscrapper
+```
+After cloning my repo, you must install all of the requirement
+
 # Requirements
-Your python version must be 3.8.6 or highger
+Your python version must be 3.8.6 or higher
 ```
 pip3 install os
 pip3 install bs4
